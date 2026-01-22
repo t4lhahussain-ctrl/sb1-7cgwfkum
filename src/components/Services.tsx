@@ -11,7 +11,7 @@ export default function Services({ onBookingClick }: ServicesProps) {
       icon: Door,
       title: 'Doors & Frames',
       description: 'Custom door installation, repairs, and frame fitting for interior and exterior doors.',
-      image: 'https://images.pexels.com/photos/4482900/pexels-photo-4482900.jpeg?auto=compress&cs=tinysrgb&w=600'
+      image: 'https://images.pexels.com/photos/3662857/pexels-photo-3662857.jpeg?auto=compress&cs=tinysrgb&w=600'
     },
     {
       icon: Home,
