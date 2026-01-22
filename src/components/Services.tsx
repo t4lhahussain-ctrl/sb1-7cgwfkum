@@ -11,7 +11,7 @@ export default function Services({ onBookingClick }: ServicesProps) {
       icon: Door,
       title: 'Doors & Frames',
       description: 'Custom door installation, repairs, and frame fitting for interior and exterior doors.',
-      image: 'https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg?auto=compress&cs=tinysrgb&w=600'
+      image: 'https://images.pexels.com/photos/1910472/pexels-photo-1910472.jpeg?auto=compress&cs=tinysrgb&w=600'
     },
     {
       icon: Home,
@@ -29,19 +29,19 @@ export default function Services({ onBookingClick }: ServicesProps) {
       icon: Stairs,
       title: 'Staircases',
       description: 'Custom staircase construction, repairs, and handrail installation.',
-      image: 'https://images.pexels.com/photos/5691659/pexels-photo-5691659.jpeg?auto=compress&cs=tinysrgb&w=600'
+      image: 'https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg?auto=compress&cs=tinysrgb&w=600'
     },
     {
       icon: Window,
       title: 'Window Frames',
       description: 'Window frame installation, repairs, and custom wooden window solutions.',
-      image: 'https://images.pexels.com/photos/5025639/pexels-photo-5025639.jpeg?auto=compress&cs=tinysrgb&w=600'
+      image: 'https://images.pexels.com/photos/1643389/pexels-photo-1643389.jpeg?auto=compress&cs=tinysrgb&w=600'
     },
     {
       icon: Home,
       title: 'Custom Joinery',
       description: 'Bespoke furniture, built-in storage, and custom woodwork solutions.',
-      image: 'https://images.pexels.com/photos/2724749/pexels-photo-2724749.jpeg?auto=compress&cs=tinysrgb&w=600'
+      image: 'https://images.pexels.com/photos/5691659/pexels-photo-5691659.jpeg?auto=compress&cs=tinysrgb&w=600'
     }
   ];
 
